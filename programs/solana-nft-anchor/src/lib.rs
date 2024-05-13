@@ -10,7 +10,7 @@ pub mod solana_nft_anchor {
         Ok(())
     }
 }
-
+ 
 #[derive(Accounts)]
 pub struct Initialize {}
 use anchor_lang::prelude::*;
